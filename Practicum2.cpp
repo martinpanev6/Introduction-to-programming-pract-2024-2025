@@ -360,7 +360,7 @@ int main()
 
 	cout << buyingLaptop ? "Tisho is ready to buy the laptop." : "Tisho is giving 800 lv. most for the laptop.";
 
-	//task 15
+	//task15
 	int tomatoes, peppers, carrots, olives, potatoes, dressing;
 	bool friendForHelp;
 
@@ -381,7 +381,6 @@ int main()
 	}
 
 	cout << "He doesn't have enough products for anything.";
-
 }
 
 
